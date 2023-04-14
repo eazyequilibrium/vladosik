@@ -80,16 +80,16 @@
   padding: 0;
   background-color: var(--color-white);
   position: absolute;
-  top: 0;
-  left: 0;
   border-radius: var(--br-smi);
   width: 189px;
   height: 45px;
+  top: 30px;
+  left: 950px;
 }
 .div5 {
   position: absolute;
-  top: 12px;
-  left: 19px;
+  top: 42px;
+  left: 968px;
   font-size: var(--font-size-lg);
   font-weight: 500;
   font-family: var(--font-roboto);
@@ -164,7 +164,7 @@
   border: 0;
   padding: 0;
   background-color: transparent;
-  top: 16px;
+  top: 465px;
   left: 120px;
   font-size: var(--font-size-5xl);
   font-weight: 500;
@@ -253,6 +253,7 @@
   border-radius: var(--br-6xs);
   background: linear-gradient(180deg, #2b6e36, #64e9a9);
   height: 38px;
+  top: 119px;
 }
 .btn,
 .btn-bg,
@@ -260,7 +261,7 @@
   position: absolute;
 }
 .div10 {
-  top: 8px;
+  top: 127px;
   left: 119px;
   font-size: var(--font-size-lg);
   font-weight: 500;
@@ -635,7 +636,7 @@
   color: var(--color-seagreen);
 }
 .div25 {
-  top: 423px;
+  top: 410px;
   left: 635px;
   font-size: var(--font-size-lg);
   letter-spacing: 0.1em;
@@ -1039,10 +1040,14 @@
   padding: 0;
   border-radius: var(--br-xs);
   width: 229px;
+  height: 44px;
+  top: 250px;
+  left: 50px;
 }
 .btn-bot {
   background-color: var(--color-seagreen);
   height: 46px;
+  width: 229px;
 }
 .btn-top {
   background-color: transparent;
@@ -1051,8 +1056,8 @@
   height: 44px;
 }
 .div39 {
-  top: 11px;
-  left: 43px;
+  top: 260px;
+  left: 95px;
   font-size: var(--font-size-lg);
   font-weight: 500;
   font-family: var(--font-roboto);
@@ -1103,12 +1108,17 @@
   left: 363px;
 }
 .btm-btn {
-  top: 0;
-  left: 0;
   border-radius: var(--br-xs);
   background-color: var(--color-seagreen);
   width: 229px;
   height: 46px;
+  top: 21px;
+  left: 2px;
+}
+.btn-bot {
+  background-color: var(--color-seagreen);
+  height: 46px;
+  width: 229px;
 }
 .fa-brandsforumbee-icon {
   position: absolute;
